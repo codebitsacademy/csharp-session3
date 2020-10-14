@@ -1,0 +1,13 @@
+C:\CodebitsAcademy\C#\session3\CalculatorTest\bin\Debug\netcoreapp3.1\CalculatorTest.exe
+C:\CodebitsAcademy\C#\session3\CalculatorTest\bin\Debug\netcoreapp3.1\CalculatorTest.deps.json
+C:\CodebitsAcademy\C#\session3\CalculatorTest\bin\Debug\netcoreapp3.1\CalculatorTest.runtimeconfig.json
+C:\CodebitsAcademy\C#\session3\CalculatorTest\bin\Debug\netcoreapp3.1\CalculatorTest.runtimeconfig.dev.json
+C:\CodebitsAcademy\C#\session3\CalculatorTest\bin\Debug\netcoreapp3.1\CalculatorTest.dll
+C:\CodebitsAcademy\C#\session3\CalculatorTest\bin\Debug\netcoreapp3.1\CalculatorTest.pdb
+C:\CodebitsAcademy\C#\session3\CalculatorTest\obj\Debug\netcoreapp3.1\CalculatorTest.csprojAssemblyReference.cache
+C:\CodebitsAcademy\C#\session3\CalculatorTest\obj\Debug\netcoreapp3.1\CalculatorTest.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\C#\session3\CalculatorTest\obj\Debug\netcoreapp3.1\CalculatorTest.AssemblyInfo.cs
+C:\CodebitsAcademy\C#\session3\CalculatorTest\obj\Debug\netcoreapp3.1\CalculatorTest.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\C#\session3\CalculatorTest\obj\Debug\netcoreapp3.1\CalculatorTest.dll
+C:\CodebitsAcademy\C#\session3\CalculatorTest\obj\Debug\netcoreapp3.1\CalculatorTest.pdb
+C:\CodebitsAcademy\C#\session3\CalculatorTest\obj\Debug\netcoreapp3.1\CalculatorTest.genruntimeconfig.cache
