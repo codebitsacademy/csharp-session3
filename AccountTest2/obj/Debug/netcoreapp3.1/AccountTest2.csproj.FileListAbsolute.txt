@@ -1,0 +1,13 @@
+C:\CodebitsAcademy\C#\session3\AccountTest2\bin\Debug\netcoreapp3.1\AccountTest2.exe
+C:\CodebitsAcademy\C#\session3\AccountTest2\bin\Debug\netcoreapp3.1\AccountTest2.deps.json
+C:\CodebitsAcademy\C#\session3\AccountTest2\bin\Debug\netcoreapp3.1\AccountTest2.runtimeconfig.json
+C:\CodebitsAcademy\C#\session3\AccountTest2\bin\Debug\netcoreapp3.1\AccountTest2.runtimeconfig.dev.json
+C:\CodebitsAcademy\C#\session3\AccountTest2\bin\Debug\netcoreapp3.1\AccountTest2.dll
+C:\CodebitsAcademy\C#\session3\AccountTest2\bin\Debug\netcoreapp3.1\AccountTest2.pdb
+C:\CodebitsAcademy\C#\session3\AccountTest2\obj\Debug\netcoreapp3.1\AccountTest2.csprojAssemblyReference.cache
+C:\CodebitsAcademy\C#\session3\AccountTest2\obj\Debug\netcoreapp3.1\AccountTest2.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\C#\session3\AccountTest2\obj\Debug\netcoreapp3.1\AccountTest2.AssemblyInfo.cs
+C:\CodebitsAcademy\C#\session3\AccountTest2\obj\Debug\netcoreapp3.1\AccountTest2.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\C#\session3\AccountTest2\obj\Debug\netcoreapp3.1\AccountTest2.dll
+C:\CodebitsAcademy\C#\session3\AccountTest2\obj\Debug\netcoreapp3.1\AccountTest2.pdb
+C:\CodebitsAcademy\C#\session3\AccountTest2\obj\Debug\netcoreapp3.1\AccountTest2.genruntimeconfig.cache
